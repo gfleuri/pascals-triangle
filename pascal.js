@@ -1,4 +1,4 @@
-// pascalTri(i: integer): array[]
+// pascalTri(i: integer)
 // Creates Pascals Triangle
 function pascalTri(i) {
   if (i < 0) { // valid input check
